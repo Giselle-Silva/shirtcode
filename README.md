@@ -5,6 +5,7 @@
 Este simples protótipo mostra como podemos usar React e Redux para construir uma experiência de usuário amigável com atualizações visuais instantâneas
 
 ## Demo
+https://modest-hoover-7d168a.netlify.app/
 
 ## Recursos
 
