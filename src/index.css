@@ -1,0 +1,52 @@
+.box {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap
+}
+
+nav {
+    background-color: #039be5;
+}
+
+.material-icons {
+    font-size: 2.4em;
+    cursor: pointer;
+}
+
+.card {
+    width: 35%;
+}
+
+.card .card-image {
+    font-weight: 400
+}
+
+.card-title {
+    color: #039be5;
+}
+
+.cart {
+    margin-top: 2.5%;
+}
+
+.collection .collection-item {
+    display: flex;
+}
+
+.collection-item.avatar .title {
+    font-size: 2em;
+    font-weight: 500;
+    color: #ee6e73;
+    display: block;
+    margin-bottom: 2.5%;
+
+}
+
+.collection .collection-item img {
+    width: 40%;
+    margin-right: 10%;
+}
+
+.item-desc {
+    align-self: center;
+}
